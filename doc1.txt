@@ -1,0 +1,24 @@
+comandos do git 
+
+1 - git init -- incia um repositorio git no windows
+
+2 - git add . -- add todos os arquivos do repositorio no staging do git
+
+3 - git commit -m "mesnagem que voce quiser" 
+
+     ***** git status --- mostra situação atual do arquivo em uso
+
+4 - git config --global user.name "usuario" 
+    git config --global user.email "email do user" 
+    
+    ***** configuração para conectar ao repositorio no github
+
+5 - git remote add origin https://github.com/user/nomerepositorio-.git
+
+    ***** configuração do repositorio remoto
+
+6 - git push -u origin master
+
+
+
+
